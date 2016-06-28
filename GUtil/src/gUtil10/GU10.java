@@ -26,7 +26,6 @@ public class GU10 {
 	public static void guVersion(){
 		System.out.println(VERSION);
 		System.out.println();
-
 	}
 	
 	public static boolean isDebugging() {
